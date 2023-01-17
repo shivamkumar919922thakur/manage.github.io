@@ -676,3 +676,12 @@ footer{
     right: -135%;
   }
 }
+
+@media (max-width:358px) {
+  .less-font{
+    font-size: 0.9rem;
+  }
+  .less-strip{
+    height: 2rem !important;
+  }
+}
